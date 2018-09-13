@@ -5,7 +5,7 @@
  <body>
  <?php 
 
- echo '<p>Hello World</p>'; 
+ echo '<p>Hello World! This works with git.</p>'; 
  
  ?> 
  </body>
