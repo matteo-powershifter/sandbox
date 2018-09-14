@@ -1,5 +1,5 @@
 <?php
 
-echo "another test push";
+echo "the payload went through";
 
 ?>
