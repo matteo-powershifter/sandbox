@@ -1,5 +1,5 @@
 <?php
 
-echo "last push (testing different branches now -- one more time. might work)";
+echo "last push (changes to deploy)";
 
 ?>
