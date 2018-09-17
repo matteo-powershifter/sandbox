@@ -1,5 +1,5 @@
 <?php
 
-echo "last push (changes to deploy)";
+echo "last push (think I finally fixed it)";
 
 ?>
