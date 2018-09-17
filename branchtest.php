@@ -1,5 +1,5 @@
 <?php
 
-echo "this is a the staging branch";
+echo "staging branch should work as well";
 
 ?>
