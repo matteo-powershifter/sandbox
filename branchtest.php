@@ -1,5 +1,5 @@
 <?php
 
-echo "last push (think I finally fixed it)";
+echo "now I better have fixed it this time)";
 
 ?>
